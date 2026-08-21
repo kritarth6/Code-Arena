@@ -1,4 +1,4 @@
-# CodeArena Advanced Frontend
+# CodeArena 
 
 A complete Vite + React frontend for an institutional coding platform.
 
